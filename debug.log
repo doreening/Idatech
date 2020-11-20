@@ -1,0 +1,22 @@
+[1030/205415.055:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1031/080710.685:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1031/104948.691:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1031/114023.377:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1031/115732.754:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1031/132412.862:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1101/103336.674:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1102/081217.816:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1102/114809.556:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1102/122645.731:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1104/075136.446:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1104/081216.488:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1104/093853.677:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1104/114211.722:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1117/033636.129:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1117/041654.898:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1117/041655.242:ERROR:exception_snapshot_win.cc(99)] thread ID 1428 not found in process
+[1117/093348.058:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1118/142650.209:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/073208.837:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/082936.680:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/093956.353:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

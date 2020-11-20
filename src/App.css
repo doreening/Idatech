@@ -1,0 +1,238 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.proimage{
+  width: 60px;
+  
+}
+.pastornames{
+  margin-left:-100px;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App-home{
+
+  height: 60vmin;
+  width:100%;
+  border-radius: 40px 40px  40px  40px;
+}
+/* .{
+  background-image: url('https://tailwindcss.com/img/card-left.jpg');
+} */
+.App-home1{
+/* margin-left: 50px; */
+  /* height: 60vmin; */
+   height: auto;
+  width:100%;
+  
+}
+
+.App-home2{
+
+  border-radius: 40px 40px  40px  40px;
+}
+
+.App-home2 img{
+height: 30vmin;
+  width:100%;
+   border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  font-size: 17px;
+   background: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  /* padding: 0 16px; */
+}
+.back{
+  background-image: url('./components/img/home.jpg');
+}
+
+
+.containers {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.containers img {vertical-align: middle;}
+
+.containers .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding:10px;
+  border-radius: 0px 0px  40px  40px;
+}
+
+.App-footer {
+  background-color: rgb(37, 36, 36);
+  text-align: center;
+
+ 
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+
+
+
+}
+.copyright-app{
+  text-align: center;
+}
+.App-nav{
+  background-color: rgb(37, 36, 36);
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.avatar img{
+  float: left;
+}
+.App-male1  img{
+  min-height: 5vh;
+float: left;
+  height: 100px;
+  margin-bottom: 10px;
+  border-radius: 40px 40px  40px  40px;
+}
+.App-male2  img{
+  min-height: 5vh;
+float: left;
+  height: 100px;
+  border-radius: 40px 40px  40px  40px;
+  margin-bottom: 10px;
+
+}
+.App-female img{
+  min-height: 5vh;
+  float: right;
+  height: 100px;
+  margin-bottom: 10px;
+  border-radius: 40px 40px  40px  40px;
+}
+.App-female{
+  border-radius: 40px 40px  40px  40px;
+  min-height: 17vh;
+}
+.App-male1{
+  min-height: 17vh;
+  border-radius: 40px 40px  40px  40px;
+}
+.App-male2{
+  min-height: 17vh;
+  border-radius: 40px 40px  40px  40px;
+}
+
+.top{
+      position: absolute;
+   
+    width: 50%;
+    height: 50px;
+    background: #efeffe;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.topup{
+  border-radius: 30px 30px 0px 0px ;
+}
+
+.bot{
+  margin-top: -40px;
+  border-radius: 0px 0px 30px 30px ;
+}
+
+.bott{
+  margin-top: 10px;
+  border-radius: 30px 30px 30px 30px ;
+}
+
+.screen{
+    /* content: ''; */
+    position: absolute;
+    top: 2px;
+    left: -50%;
+    width: 50%;
+    height: 100%;
+    background: rgba(255,255,255,.1);
+    z-index: 1;
+    transform: skewX(-5deg);
+}
+
+.bottom{
+    position: absolute;
+    /* bottom: -50px; */
+    width: 15%;
+    height: 50px;
+    background: #efeffe;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.bring{
+    margin-top: -50px;
+}
+
+.Events{
+  height: 100vmin;
+  width: 100%;
+  margin: 0 auto;
+  background-image: url('./components/img/th.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* opacity: 0.4; */
+}
+
+.back{
+  background-image: url('./components/img/bibl.jpg');
+}
+
+.slider{
+  background-color: #0b1c39;
+}
+.register{
+  border-radius: 40px 40px 40px 40px;
+  width: 600vmin;
+  height: auto;
+  padding: 30px;
+}
+
+.signin{
+  border-radius: 40px 40px 40px 40px;
+  width: 100vmin;
+  height: auto;
+}
+
+
+
+
+
